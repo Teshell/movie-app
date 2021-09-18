@@ -1,0 +1,12 @@
+.App {
+  width: 80%;
+  min-height: 100vh;
+  margin: 55px auto;
+  text-align: center;
+}
+
+.App .title {
+  font-size: 3rem;
+  font-weight: 200;
+  letter-spacing: 3px;
+}
